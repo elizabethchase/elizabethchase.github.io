@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://username.github.io/files/cv.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="https://elizabethchase.github.io/files/cv.pdf" type="application/pdf" width="600px" height="500px" />

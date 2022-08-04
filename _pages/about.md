@@ -7,6 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NHHDSH4W1T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NHHDSH4W1T');
+</script>
 
 Welcome to my website! I am in the 5th year of my PhD in biostatistics at the University of Michigan, advised by Drs. Philip Boonstra and Jeremy Taylor. 
 

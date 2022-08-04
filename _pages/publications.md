@@ -10,7 +10,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 My publications fall in a couple of domains (# denotes co-senior author, * denotes co-first author):
 
 **Statistical**
-- Boonstra, Philip; Braun, Thomas; **Chase, Elizabeth**. “A modular framework for seamless oncology trials.” Clinical Trials. Jan. 21, 2021. [Paper](https://elizabethchase.github.io/files/boonstra_seamless.pdf), [R Package](https://github.com/elizabethchase/seamlesssim),  [Code](https://github.com/elizabethchase/seamlesstrialdesign)
+- Boonstra, Philip; Braun, Thomas; **Chase, Elizabeth**. “A modular framework for seamless oncology trials.” Clinical Trials. Jan. 21, 2021. [Paper](https://elizabethchase.github.io/files/boonstra_seamless.pdf), [R Package](https://github.com/elizabethchase/seamlesssim),  [Code](https://github.com/psboonstra/seamlesstrialdesign)
 - **Chase, Elizabeth** and Philip Boonstra. “Accounting for established predictors with the multi-step elastic net.” Statistics in Medicine 38.23 (October 2019): 4534-4544. [Paper](https://elizabethchase.github.io/files/chase_elasticnet.pdf), [Code](https://github.com/elizabethchase/MSEN)
 
 **Cancer**
@@ -19,7 +19,7 @@ My publications fall in a couple of domains (# denotes co-senior author, * denot
 
 **Flint Water Crisis**
 - Ezell, Jerel and Elizabeth Chase. “Forming a critical race theory of environmental disaster: management and social meanings in the Flint Water Crisis.” Journal of Environmental Management. Accepted. [Paper](https://elizabethchase.github.io/files/ezell2022_crt.pdf), [Code](https://github.com/elizabethchase/Flint_Community_Engagement/blob/master/paperthree_politics.Rmd)
-- Ezell, Jerel; Bhardwaj, Sanvi; Chase, Elizabeth. “Child lead screening behaviors and health outcomes following the Flint Water Crisis: a cross-sectional analysis.” Journal of Racial and Ethnic Health Disparities. Jan. 2022. [Paper](https://elizabethchase.github.io/files/ezell2022_child.pdf), [Code](https://github.com/elizabethchase/Flint_Community_Engagement/blob/master/papertwo_child_health.Rmd)
+- Ezell, Jerel; Bhardwaj, Sanvi; Chase, Elizabeth. “Child lead screening behaviors and health outcomes following the Flint Water Crisis: a cross-sectional analysis.” Journal of Racial and Ethnic Health Disparities. Jan. 2022. [Paper](https://elizabethchase.github.io/files/Ezell2022_child.pdf), [Code](https://github.com/elizabethchase/Flint_Community_Engagement/blob/master/papertwo_child_health.Rmd)
 - Ezell, Jerel; Griswold, Delilah; Chase, Elizabeth; Carver, Evan. “The blueprint of disaster: COVID-19, the Flint water crisis, and unequal ecological impacts.” Lancet Planetary Health. May 2021. [Paper](https://elizabethchase.github.io/files/ezell2021_blueprint.pdf) 
 - Ezell, Jerel and Elizabeth Chase. “A population-based assessment of physical symptoms and mental health outcomes among adults following the Flint Water Crisis.” Journal of Urban Health. Apr. 2021. [Paper](https://elizabethchase.github.io/files/ezell2021_adult.pdf), [Code](https://github.com/elizabethchase/Flint_Community_Engagement/blob/master/paperone_adult_health.Rmd)
 - Ezell, Jerel; Salari, Samira; Rooker, John; Chase, Elizabeth. “Intersectional Trauma: COVID-19, the Psychosocial Contract, and America’s Racialized Public Health Lineage.” Traumatology. Feb. 2021. [Paper](https://elizabethchase.github.io/files/ezell2021_intersectional.pdf)

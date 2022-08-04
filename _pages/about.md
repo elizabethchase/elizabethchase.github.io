@@ -16,5 +16,5 @@ I work in two primary collaborative areas: 1) prostate cancer care and 2) the lo
 
 Overall, I am passionate about using statistics to advance our understanding of real-world problems and am excited by interdisciplinary collaborative work.
 
-Outside of work, I love to read, cook, and take long walks--preferably in the company of my friends or family. I am always happy to meet new people and do what I can to help others. Please feel free to reach out! 
+Outside of work, I love to read, cook, and take long walks--preferably in the company of my friends or family. I am always happy to meet new people and do what I can to help others. My email is ecchase \[at\] umich \[dot\] edu. Please feel free to reach out! 
 

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am in the final year of my PhD in biostatistics at the University of Michigan, advised by Drs. Philip Boonstra and Jeremy Taylor. 
+Welcome to my website! I am in the final year of my PhD in biostatistics at the University of Michigan, advised by Drs. Philip Boonstra and Jeremy M.G. Taylor. 
 
 My statistical research falls in a couple of domains: statistical shrinkage, Bayesian nonparametrics, Bayesian modeling, and survival analysis. 
 

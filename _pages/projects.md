@@ -5,8 +5,9 @@ permalink: /projects/
 author_profile: true
 ---
 
+## Horseshoe process regression
 <details>
-<summary>## Horseshoe process regression</summary>
+<summary>In healthy, premenopausal women, basal body temperature (BBT) follows a well-defined pattern...</summary>
 <br>
 In healthy, premenopausal women, basal body temperature (BBT) follows a well-defined pattern. Each menstrual cycle starts with the onset of the period, at which time BBT is low. With ovulation (usually around day 14 of the menstrual cycle), a woman's BBT jumps and remains high until the onset of the next period, when it drops suddenly to the pre-ovulation temperature and the cycle repeats. For an individual woman, tracking BBT over several menstrual cycles may give insight into underlying health conditions or provide guidance on how best to time sexual intercourse to improve or reduce chances of pregnancy, especially when used in combination with other health and fertility indicators.
 

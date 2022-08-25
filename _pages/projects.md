@@ -7,8 +7,10 @@ author_profile: true
 
 ## Horseshoe process regression
 <details>
-<summary>In healthy, premenopausal women, basal body temperature follows a well-defined pattern. Each menstrual cycle starts with the onset of the period, at which time basal body temperature (BBT) is low. With ovulation (usually around day 14 of the menstrual cycle), a woman's BBT jumps and remains high until the onset of the next period, when it drops suddenly to the pre-ovulation temperature and the cycle repeats. For an individual woman, tracking BBT over several menstrual cycles may give insight into underlying health conditions or provide guidance on how best to time sexual intercourse to improve or reduce chances of pregnancy, especially when used in combination with other health and fertility indicators.</summary>
+<summary> Description </summary>
 
+In healthy, premenopausal women, basal body temperature (BBT) follows a well-defined pattern. Each menstrual cycle starts with the onset of the period, at which time BBT is low. With ovulation (usually around day 14 of the menstrual cycle), a woman's BBT jumps and remains high until the onset of the next period, when it drops suddenly to the pre-ovulation temperature and the cycle repeats. For an individual woman, tracking BBT over several menstrual cycles may give insight into underlying health conditions or provide guidance on how best to time sexual intercourse to improve or reduce chances of pregnancy, especially when used in combination with other health and fertility indicators.
+  
 BBT is difficult to model. Although the pattern outlined above generally holds, the details may vary across and within women, with the date of ovulation sometimes very early or late, the full menstrual cycle length ranging from 20 to 40+ days, and differing degrees of sharpness in the temperature jump. Many conventional methods to analyze these data would oversmooth the temperature jump and introduce excess motion into the flat pre- and post-ovulation portions of the association, making it difficult to identify the true time of ovulation. This bias could have real ramifications for a couple trying to achieve or avoid pregnancy. The data below illustrate some of these features, showing observed BBT data from one woman's menstrual cycle and the results from three different fitted models. The observed data are given as dots, with an expert's best guess of the true ovulation date given as a vertical dashed line. Three different model fits and their 95% uncertainty intervals are shown. We see that using either a Gaussian process regression (GPR) or a penalized spline model (Pspline) would estimate the date of ovulation as three days earlier than reality. Horseshoe process regression (HPR; the method I propose) accurately identifies the date of ovulation.
 
 <p align="center">
@@ -28,8 +30,10 @@ To fit a BBT trajectory, we extend the horseshoe distribution as a stochastic pr
 
 ## Competing risks tradeoffs in prostate cancer care
 <details>
-<summary>In localized prostate cancer patients, other-cause mortality is the primary cause of death. Nonetheless, most research focuses on prostate-cancer specific mortality (PCSM), with less attention paid to other-cause mortality (OCM). My collaborators in radiation oncology wanted to better understand how risk of OCM affects risk of PCSM and how treatment decision-making can minimize patients' risk of overall mortality, rather than just PCSM.</summary>
+<summary>Description</summary>
  
+In localized prostate cancer patients, other-cause mortality (OCM) is the primary cause of death. Nonetheless, most research focuses on prostate-cancer specific mortality (PCSM), with less attention paid to OCM. My collaborators in radiation oncology wanted to better understand how risk of OCM affects risk of PCSM and how treatment decision-making can minimize patients' risk of overall mortality, rather than just PCSM.
+  
 To address these questions, I developed a prediction model for OCM in prostate cancer patients using data from the National Health and Nutrition Examination Survey (NHANES) and then used properties of the cumulative incidence function to integrate cause-specific models of the hazards of OCM and PCSM, which provided estimates of the absolute risk of PCSM, OCM, and overall mortality under different treatment regimens.
 </details>
 
@@ -39,16 +43,24 @@ To address these questions, I developed a prediction model for OCM in prostate c
 - Shiny apps: [OCCAM](occam-cap.org), [STAR-CAP](star-cap.org)
 
 ## Flint community engagement project
-
+<details>
+<summary>Description</summary>
+ 
+  Put description here! </details>
+  
 **Products**
-- [Paper]
-- [Paper]
-- [Paper]
-- Manuscript (under review)
-- Manuscript (submitted)
+- [Paper](https://elizabethchase.github.io/files/Ezell2022_CRT.pdf): Ezell JM and **EC Chase**. “Forming a critical race theory of environmental disaster: management and social meanings in the Flint Water Crisis.” Journal of Environmental Management (2022).
+- [Paper](https://elizabethchase.github.io/files/Ezell2022_child.pdf): Ezell JM; Bhardwaj S; **Chase EC**. “Child lead screening behaviors and health outcomes following the Flint Water Crisis: a cross-sectional analysis.” Journal of Racial and Ethnic Health Disparities (Jan. 2022).
+- [Paper](https://elizabethchase.github.io/files/ezell2021_adult.pdf): Ezell JM and **EC Chase**. “A population-based assessment of physical symptoms and mental health outcomes among adults following the Flint Water Crisis.” Journal of Urban Health (Apr. 2021).
+- Manuscript (under review): Ezell JM and **EC Chase**. “How Does Race Impact Resource Uptake Following Environmental Disaster? Examining Responses to Government Intervention During the Flint Water Crisis.”
+- Manuscript (submitted): Shelton J; **Chase EC**; Lee A; Ezell JM. “Gender, health, and social networks during public health disasters: an evaluation of the Flint Water Crisis.”
 
 ## Gun violence
-
+<details>
+<summary>Description</summary>
+ 
+  Put description here! </details>
+  
 **Products**
-- [Poster]
-- [Slides]
+- [Poster](https://elizabethchase.github.io/files/dv_shootings_poster.pdf) made in collaboration with Dr. Veronica Berrocal, presented at Data Science for Public Good Symposium (Feb. 2020).
+- [Slides](https://elizabethchase.github.io/files/gunviolece_integration.pdf) presented at my lab meeting in Feb. 2021, based on work I carried out for my final project for BIOSTAT 880: Missing Data. 

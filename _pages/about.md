@@ -17,8 +17,9 @@ My statistical research falls in a couple of domains:
 - Bayesian modeling
 - Survival analysis 
 
-I work in two primary collaborative areas:
+And I work in several key collaborative areas:
 - Prostate cancer care
+- Women's health
 - The Flint water crisis
 
 Please feel free to read more about the above by clicking on the ``Projects" tab above. 

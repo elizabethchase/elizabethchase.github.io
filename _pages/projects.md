@@ -28,7 +28,7 @@ To fit a BBT trajectory, we extend the horseshoe distribution as a stochastic pr
 - Manuscript (submitted): **Chase EC**; Taylor JMG; Boonstra PS. "Modeling data using horseshoe process regression."
 - Manuscript (in preparation): **Chase EC**; Taylor JMG; Boonstra PS. "A variational inference approach for horseshoe process regression with correlated data."
 - R package: [HPR](https://github.com/elizabethchase/HPR)
-<details>
+</details>
   
 ## Competing risks tradeoffs in prostate cancer care
 <details>

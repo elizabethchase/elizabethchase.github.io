@@ -23,8 +23,11 @@ To fit a BBT trajectory, we extend the horseshoe distribution as a stochastic pr
 </details>
 
 ## Competing risks tradeoffs in prostate cancer care
-
-In localized prostate cancer patients, other-cause mortality (OCM) is the primary cause of death. Nonetheless, most research focuses on prostate-cancer specific mortality (PCSM), with less attention paid to OCM. My collaborators in radiation oncology wanted to better understand how risk of OCM affects risk of PCSM and how treatment decision-making can minimize patients' risk of overall mortality, rather than just PCSM. To address these questions, I developed a prediction model for OCM in prostate cancer patients using data from the National Health and Nutrition Examination Survey (NHANES) and then used properties of the cumulative incidence function to integrate cause-specific models of the hazards of OCM and PCSM, which provided estimates of the absolute risk of PCSM, OCM, and overall mortality under different treatment regimens
+<details>
+<summary>In localized prostate cancer patients, other-cause mortality is the primary cause of death...</summary>
+<br>
+Nonetheless, most research focuses on prostate-cancer specific mortality (PCSM), with less attention paid to other-cause mortality (OCM). My collaborators in radiation oncology wanted to better understand how risk of OCM affects risk of PCSM and how treatment decision-making can minimize patients' risk of overall mortality, rather than just PCSM. To address these questions, I developed a prediction model for OCM in prostate cancer patients using data from the National Health and Nutrition Examination Survey (NHANES) and then used properties of the cumulative incidence function to integrate cause-specific models of the hazards of OCM and PCSM, which provided estimates of the absolute risk of PCSM, OCM, and overall mortality under different treatment regimens
+</details>
 
 ## Flint Community Engagement Project
 

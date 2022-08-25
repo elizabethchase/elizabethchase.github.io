@@ -7,7 +7,7 @@ author_profile: true
 
 ## Horseshoe process regression
 <details>
-<summary> Description </summary>
+<summary> Full Description </summary>
 
 In healthy, premenopausal women, basal body temperature (BBT) follows a well-defined pattern. Each menstrual cycle starts with the onset of the period, at which time BBT is low. With ovulation (usually around day 14 of the menstrual cycle), a woman's BBT jumps and remains high until the onset of the next period, when it drops suddenly to the pre-ovulation temperature and the cycle repeats. For an individual woman, tracking BBT over several menstrual cycles may give insight into underlying health conditions or provide guidance on how best to time sexual intercourse to improve or reduce chances of pregnancy, especially when used in combination with other health and fertility indicators.
   
@@ -32,7 +32,7 @@ To fit a BBT trajectory, we extend the horseshoe distribution as a stochastic pr
   
 ## Competing risks tradeoffs in prostate cancer care
 <details>
-<summary>Description</summary>
+<summary>Full Description</summary>
  
 In localized prostate cancer patients, other-cause mortality (OCM) is the primary cause of death. Nonetheless, most research focuses on prostate-cancer specific mortality (PCSM), with less attention paid to OCM. My collaborators in radiation oncology wanted to better understand how risk of OCM affects risk of PCSM and how treatment decision-making can minimize patients' risk of overall mortality, rather than just PCSM.
   
@@ -48,7 +48,7 @@ To address these questions, I developed a prediction model for OCM in prostate c
   
 ## Flint community engagement project
 <details>
-<summary>Description</summary>
+<summary>Full Description</summary>
  
   Put description here! </details>
   
@@ -63,7 +63,7 @@ To address these questions, I developed a prediction model for OCM in prostate c
   
 ## Gun violence
 <details>
-<summary>Description</summary>
+<summary>Full Description</summary>
  
   Put description here! </details>
   

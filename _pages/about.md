@@ -10,19 +10,13 @@ redirect_from:
 
 Welcome to my website! I am in the final year of my PhD in biostatistics at the University of Michigan, advised by Drs. Philip S. Boonstra and Jeremy M. G. Taylor. 
 
-My statistical research falls in a couple of domains: 
+My research falls in a couple of domains: 
+- Using tools from Bayesian statistics and statistical shrinkage to fit abruptly changing associations (step functions, impulse functions, etc.)
+- Quantifying competing risks tradeoffs in treatment decision-making 
+- Flexible methods for analyzing competing risks endpoints
+- Applied projects in prostate cancer care, women's health, and the Flint water crisis
 
-- Statistical shrinkage
-- Bayesian nonparametrics
-- Bayesian modeling
-- Survival analysis 
-
-And I work in several key collaborative areas:
-- Prostate cancer care
-- Women's health
-- The Flint water crisis
-
-Please feel free to read more about the above by clicking on the "Projects" tab above. 
+Please feel free to read more about my research by clicking on the "Projects" tab above. 
 
 Overall, I am passionate about using statistics to advance our understanding of real-world problems and am excited by interdisciplinary collaborative work.
 

@@ -1,7 +1,13 @@
 # main links links
 main:
+  - title: "Projects"
+    url: /projects/
+  
   - title: "Publications"
     url: /publications/
     
   - title: "CV"
     url: /cv/
+    
+  - title: "Software"
+    url: /software/

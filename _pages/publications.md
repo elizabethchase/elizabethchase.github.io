@@ -35,7 +35,7 @@ My publications fall in a couple of domains (# denotes co-senior author, * denot
 
 **Submitted**
 - **Chase, Elizabeth**; Taylor, Jeremy; Boonstra, Philip. “Modeling data using horseshoe process regression.”
-- Shelton, Jenna; **Chase, Elizabeth**; Lee, Andrew; Ezell, Jerel. “Gender, health, and social networks during public health disasters: an evaluation of the Flint Water Crisis.” Social Networks.
+- Shelton, Jenna; **Chase, Elizabeth**; Lee, Andrew; Ezell, Jerel. “Gender, health, and social networks during public health disasters: an evaluation of the Flint Water Crisis.” 
 
 **Not Peer Reviewed**
 - **Chase, Elizabeth**; Bowen, Claire McKay; Director, Hannah; Bowen, Baladandayuthapani, Veera; Pierson, Steve. “Panel shares advice on applying for NSF fellowships.” Amstat News (Nov. 2020). [Article](https://magazine.amstat.org/blog/2020/11/01/nsfpanel/) 

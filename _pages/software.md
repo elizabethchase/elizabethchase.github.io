@@ -11,4 +11,4 @@ author_profile: true
 
 **Shiny Apps**
 - **STAR-CAP**: This Shiny app generates predictions from the prostate cancer staging system of [Dess et al. (2020)](https://pubmed.ncbi.nlm.nih.gov/33090219/). As of 8/25/22, it has been visited by almost 5,000 unique users from 95 different countries, for a total of almost 12,000 visits. Access it [here](star-cap.org). 
-- **OCCAM**: This Shiny app generates predictions of other-cause mortality in prostate cancer patients using the OCCAM model of [Chase et al. (2022)](https://elizabethchase.github.io/files/chase_occam.pdf). As of 8/25/22, it has been used by almost 200 unique users from 13 different countries. Access it [here](occam-cap.org).
+- **OCCAM**: This Shiny app generates predictions of other-cause mortality in prostate cancer patients using the OCCAM model of [Chase et al. (2022)](https://elizabethchase.github.io/files/chase_occam.pdf). As of 8/25/22, it has been used by almost 200 unique users from 13 different countries, for a total of 350 visits. Access it [here](occam-cap.org).

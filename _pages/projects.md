@@ -38,7 +38,7 @@ To address these questions, I developed a prediction model for OCM in prostate c
 - Manuscript (in preparation): Covert EC; **Chase EC**; Dess RT; Schipper MJ; Jackson WC. “Data integration for prostate cancer specific mortality prediction.” 
 - Shiny apps: [OCCAM](occam-cap.org), [STAR-CAP](star-cap.org)
 
-## Flint Community Engagement Project
+## Flint community engagement project
 
 **Products**
 - [Paper]

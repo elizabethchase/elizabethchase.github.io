@@ -22,7 +22,7 @@ And I work in several key collaborative areas:
 - Women's health
 - The Flint water crisis
 
-Please feel free to read more about the above by clicking on the ``Projects" tab above. 
+Please feel free to read more about the above by clicking on the "Projects" tab above. 
 
 Overall, I am passionate about using statistics to advance our understanding of real-world problems and am excited by interdisciplinary collaborative work.
 

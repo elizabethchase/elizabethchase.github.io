@@ -12,11 +12,9 @@ Welcome to my website! I am in the final year of my PhD in biostatistics at the 
 
 My research falls in a couple of domains: 
 - Using tools from Bayesian statistics and statistical shrinkage to fit abruptly changing associations (step functions, impulse functions, etc.)
-- Quantifying competing risks tradeoffs in treatment decision-making 
+- Quantifying competing risks tradeoffs to aid treatment decision-making 
 - Flexible methods for analyzing competing risks endpoints
 - Applied projects in prostate cancer care, women's health, and the Flint water crisis
-
-Please feel free to read more about my research by clicking on the "Projects" tab above. 
 
 Overall, I am passionate about using statistics to advance our understanding of real-world problems and am excited by interdisciplinary collaborative work.
 

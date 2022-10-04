@@ -14,10 +14,12 @@ My publications fall in a couple of domains (# denotes co-senior author, * denot
 - **Chase, Elizabeth** and Philip Boonstra. “Accounting for established predictors with the multi-step elastic net.” Statistics in Medicine 38.23 (October 2019): 4534-4544. [Paper](https://elizabethchase.github.io/files/chase_elasticnet.pdf), [Link](https://pubmed.ncbi.nlm.nih.gov/31313344/), [Code](https://github.com/elizabethchase/MSEN)
 
 **Cancer**
+- Shreves, Alaina; Buller, Ian; **Chase, Elizabeth**; Creutzfeldt, Hannah; Fisher, Jared; Graubard, Barry; Hoover, Robert; Silverman, Debra; Devesa, Susan; Jones, Rena. “Geographic patterns in U.S. lung cancer mortality and cigarette smoking.” Cancer Epidemiology, Biomarkers & Prevention (2022). Forthcoming.
 - **Chase, Elizabeth**; Bryant, Alex; Sun, Yilun; Jackson, William; Spratt, Daniel; #Dess, Robert; #Schipper, Matthew. “Development and Validation of a Life Expectancy Calculator for U.S. Prostate Cancer Patients.” BJU International (April 2022). [Paper](https://elizabethchase.github.io/files/chase_occam.pdf), [Link](https://pubmed.ncbi.nlm.nih.gov/35373440/), [Code](https://github.com/elizabethchase/PCOtherCause), [App](http://occam-cap.org/)
 - Hartman, Holly; Sun, Yilun; Devasia, Theresa; **Chase, Elizabeth**; Jairath, Neil; Dess, Robert; Jackson, William; Morris, Emily; Li, Pin; Hochstedler, Kim; Abbott, Madeline; Kidwell, Kelley; Walter, Vonn; Wang, Ming; Wang, Xi; Zaorsky, Nicholas; Schipper, Matthew; Spratt, Daniel. “Integrated Survival Estimates for Cancer Treatment Delay Among Adults With Cancer During the Coronavirus Disease 2019 (COVID-19) Pandemic.” JAMA Oncology 6.12 (2020): 1881-1889. [Paper](https://elizabethchase.github.io/files/hartman_onccovid.pdf), [Link](https://pubmed.ncbi.nlm.nih.gov/33119036/)
 
 **Flint Water Crisis**
+- Ezell, Jerel and **Elizabeth Chase**. “How Does Race Impact Resource Uptake Following Environmental Disaster? Examining Responses to Government Intervention During the Flint Water Crisis.” Social Science and Medicine (2022). Forthcoming. [Code](https://github.com/elizabethchase/Flint_Community_Engagement/blob/master/paperfour_healthbehaviors.Rmd)
 - Ezell, Jerel and **Elizabeth Chase**. “Forming a critical race theory of environmental disaster: management and social meanings in the Flint Water Crisis.” Journal of Environmental Management (2022). [Paper](https://elizabethchase.github.io/files/Ezell2022_CRT.pdf), [Link](https://www.sciencedirect.com/science/article/pii/S0301479722014591), [Code](https://github.com/elizabethchase/Flint_Community_Engagement/blob/master/paperthree_politics.Rmd)
 - Ezell, Jerel; Bhardwaj, Sanvi; **Chase, Elizabeth**. “Child lead screening behaviors and health outcomes following the Flint Water Crisis: a cross-sectional analysis.” Journal of Racial and Ethnic Health Disparities (Jan. 2022). [Paper](https://elizabethchase.github.io/files/Ezell2022_child.pdf), [Link](https://pubmed.ncbi.nlm.nih.gov/35041153/), [Code](https://github.com/elizabethchase/Flint_Community_Engagement/blob/master/papertwo_child_health.Rmd)
 - Ezell, Jerel; Griswold, Delilah; **Chase, Elizabeth**; Carver, Evan. “The blueprint of disaster: COVID-19, the Flint water crisis, and unequal ecological impacts.” Lancet Planetary Health (May 2021). [Paper](https://elizabethchase.github.io/files/ezell2021_blueprint.pdf), [Link](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(21)00076-0/fulltext)
@@ -30,12 +32,10 @@ My publications fall in a couple of domains (# denotes co-senior author, * denot
 - **Chase, Elizabeth**. “Writing Woman: Caroline Gordon’s Struggle with Catholicism and Gender.” Traces: UNC Undergraduate Journal of History (Spring 2016). [Paper](https://elizabethchase.github.io/files/chase_carolinegordon.pdf) 
 
 **Under Review**
-- Shreves, Alaina; Buller, Ian; **Chase, Elizabeth**; Creutzfeldt, Hannah; Fisher, Jared; Graubard, Barry; Hoover, Robert; Silverman, Debra; Devesa, Susan; Jones, Rena. “Geographic patterns in U.S. lung cancer mortality and cigarette smoking.” 
-- Ezell, Jerel and **Elizabeth Chase**. “How Does Race Impact Resource Uptake Following Environmental Disaster? Examining Responses to Government Intervention During the Flint Water Crisis.” 
+- Shelton, Jenna; **Chase, Elizabeth**; Lee, Andrew; Ezell, Jerel. “Gender, health, and social networks during public health disasters: an evaluation of the Flint Water Crisis.” 
 
 **Submitted**
 - **Chase, Elizabeth**; Taylor, Jeremy; Boonstra, Philip. “Modeling data using horseshoe process regression.”
-- Shelton, Jenna; **Chase, Elizabeth**; Lee, Andrew; Ezell, Jerel. “Gender, health, and social networks during public health disasters: an evaluation of the Flint Water Crisis.” 
 
 **Not Peer Reviewed**
 - **Chase, Elizabeth**; Bowen, Claire McKay; Director, Hannah; Bowen, Baladandayuthapani, Veera; Pierson, Steve. “Panel shares advice on applying for NSF fellowships.” Amstat News (Nov. 2020). [Article](https://magazine.amstat.org/blog/2020/11/01/nsfpanel/) 
